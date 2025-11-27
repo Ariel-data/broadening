@@ -1,5 +1,5 @@
-Collision Line Broadening data
-==============================
+Collision Line Broadening data for molecules
+=============================================
 
 ExoMol_ 
 -------
@@ -272,6 +272,42 @@ ExoMol_
 +-----------+--------+--------+--------+--------+--------+--------+
 |YO         |        |        |        |        |        |        |
 +-----------+--------+--------+--------+--------+--------+--------+
+
+Collision Line Broadening data for Na and K doublets
+======================================================
+
+Allard et al. (2016): K broadened by H2:
+-----------------------------------------------------------
+
+data: https://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/589/A21 
+
+paper: https://doi.org/10.1051/0004-6361/201628270
+
+Allard et al. (2024): K broadened by He:
+----------------------------------------
+
+data: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/683/A188
+
+paper: https://doi.org/10.1051/0004-6361/202348711
+
+Allard et al. (2019): Na broadened by H2:
+----------------------------------------
+
+data: https://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/628/A120
+
+paper: https://doi.org/10.1051/0004-6361/201935593
+
+Allard et al. (2023): Na broadened by He:
+----------------------------------------
+
+data: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/674/A171
+
+paper: https://doi.org/10.1051/0004-6361/202346215
+
+
+
+
+
 
 
 
